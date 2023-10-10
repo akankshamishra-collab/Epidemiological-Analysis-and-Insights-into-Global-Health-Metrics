@@ -21,7 +21,7 @@ This repository contains a Python notebook that offers an in-depth epidemiologic
 
    Ensure all datasets are in the same directory as the notebook or adjust the file paths in the code accordingly.
 
-   ## Note that the original dataset was taken from mortality.org (The most comprehensive source of scientific data on death in industrialized nations is the Human death Database (HMD). Researchers, students, journalists, policy analysts, and others with an interest in human lifespan can use the HMD's extensive, high-quality harmonized mortality and population figures. The HMD adheres to open data standards.) 
+   **Note that the original dataset was taken from mortality.org (The most comprehensive source of scientific data on death in industrialized nations is the Human death Database (HMD). Researchers, students, journalists, policy analysts, and others with an interest in human lifespan can use the HMD's extensive, high-quality harmonized mortality and population figures. The HMD adheres to open data standards.)**
 
 4. **Running the Notebook:**  
    - Navigate to the directory containing the notebook using the command line.
