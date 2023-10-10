@@ -36,8 +36,7 @@ This repository contains a Python notebook that offers an in-depth epidemiologic
 
 6. **Visualization:**  
    The notebook employs libraries like Matplotlib and Seaborn for visualizations. Ensure these libraries are installed or install them using pip:
-
-                                  pip install matplotlib seaborn
+pip install matplotlib seaborn
    
 
 8. **Conclusion:**  
