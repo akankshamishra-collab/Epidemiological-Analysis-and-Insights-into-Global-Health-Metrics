@@ -16,7 +16,6 @@ This repository contains a Python notebook that offers an in-depth epidemiologic
    - Death rates and specific causes.
    - Population growth rates.
    - Exposure to various health risks.
-   - Economic indicators like GDP.
    - Historical events and their impact on health metrics.
 
    Ensure all datasets are in the same directory as the notebook or adjust the file paths in the code accordingly.
